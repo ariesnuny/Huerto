@@ -1,0 +1,44 @@
+body {
+  background-color: burlywood;
+}
+
+section {
+  text-align: center;
+}
+
+/* unvisited and visited link */
+a:link, a:visited {
+  background-color: blueviolet;
+  color: black;
+  padding: 4px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* mouse over link and selected link */
+a:hover, a:active {
+  background-color: #b67fdb;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  color: blueviolet;
+  text-align: center;
+}
+
+div {
+  color: blueviolet;
+}
+
+h3 {
+  
+  font-family: verdana;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
